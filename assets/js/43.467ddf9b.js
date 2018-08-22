@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{130:function(t,n,s){"use strict";s.r(n);var e={name:"ButtonBasic",components:{VntButton:s(63).b}},o=s(0),u=Object(o.a)(e,function(){var t=this.$createElement,n=this._self._c||t;return n("div",{staticClass:"playground"},[n("vnt-button",[this._v("Button")])],1)},[],!1,null,null,null);n.default=u.exports}}]);
