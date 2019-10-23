@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{163:function(n,t,e){"use strict";e.r(t);var s={name:"IconBasic",components:{VntIcon:e(76).f},props:["name"]},a=e(0),c=Object(a.a)(s,function(){var n=this.$createElement;return(this._self._c||n)("vnt-icon",{attrs:{name:this.name}})},[],!1,null,null,null);t.default=c.exports}}]);
